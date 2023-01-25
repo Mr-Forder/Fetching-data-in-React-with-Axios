@@ -1,4 +1,4 @@
-![ocir-header](https://user-images.githubusercontent.com/66869833/197530121-42cc8142-0541-4dd5-b85a-c60903b41d6e.jpg)
+![fetch](https://user-images.githubusercontent.com/66869833/214651035-15385a91-ce2a-406a-8f37-43ded11e7ee3.jpg)
 
 # Fetching data in React with Axios
 
